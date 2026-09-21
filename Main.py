@@ -1,3 +1,7 @@
+import tkinter as tk
+from tkinter import messagebox
+
+import auth
 import ganjil_genap
 import bilangan_prima
 import luas_persegi_panjang
